@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map ServoDecode
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ServoDecodeClass KEYWORD1
+decodeState_t KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getState	KEYWORD2
+GetChannelPulseWidth	KEYWORD2
+setFailsafe	KEYWORD2
+getChanCount	KEYWORD2	
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+icpPin	LITERAL1
+TICKS_PER_uS	LITERAL1
+MAX_CHANNELS	LITERAL1
+MIN_IN_PULSE_WIDTH	LITERAL1
+MAX_IN_PULSE_WIDTH	LITERAL1
+SYNC_GAP_LEN	LITERAL1
+FAILSAFE_PIN	LITERAL1
